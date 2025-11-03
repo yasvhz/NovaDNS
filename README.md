@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/logo.png" width="45%" alt="NovaDNS Logo">
+  <img src="assets/logo.png" width="25%" alt="NovaDNS Logo">
 </p>
 
 <h1 align="center">🌐 NovaDNS</h1>
